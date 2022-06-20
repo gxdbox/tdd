@@ -5,8 +5,8 @@ package com.example.tdd.controller;
  * @date 2022/6/20
  * @description
  */
-public class Xjh1 {
+public class MAMAMA {
     public static void main(String[] args) {
-        System.out.println("我是徐军行");
+        System.out.println("我是新增类");
     }
 }

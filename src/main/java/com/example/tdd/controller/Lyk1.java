@@ -7,11 +7,6 @@ package com.example.tdd.controller;
  */
 public class Lyk1 {
     public static void main(String[] args) {
-        System.out.println("lyk come on");
-        System.out.println("lyk555");
-        System.out.println("lyk444");
-        System.out.println("lyk333");
-        System.out.println("lyk222");
-        System.out.println("lyk111");
+        System.out.println("晚上吃宫保鸡丁");
     }
 }
