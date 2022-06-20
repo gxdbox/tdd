@@ -13,5 +13,6 @@ public class Gxd1 {
         System.out.println("gxd4");
         System.out.println("gxd5");
         System.out.println("gxd6");
+        System.out.println("gxd come on");
     }
 }
