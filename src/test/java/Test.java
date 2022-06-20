@@ -9,5 +9,6 @@ public class Test extends JerseyTest {
 
     public void should_test(){
         String path = target().getUri().getPath();
+        System.out.println("22222");
     }
 }

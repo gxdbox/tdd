@@ -10,4 +10,7 @@ public class TddApplication {
         SpringApplication.run(TddApplication.class, args);
     }
 
+    private void sethahaha(){
+        System.out.println("hahahah");
+    }
 }
