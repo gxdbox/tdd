@@ -5,8 +5,8 @@ package com.example.tdd.controller;
  * @date 2022/6/20
  * @description
  */
-public class Lyk1 {
+public class Gxd1 {
     public static void main(String[] args) {
-        System.out.println("lyk3333");
+        System.out.println("gxd1");
     }
 }
