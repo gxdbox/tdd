@@ -7,9 +7,6 @@ package com.example.tdd.controller;
  */
 public class Gdb1 {
     public static void main(String[] args) {
-        System.out.println("gdb1");
-        System.out.println("gdb2");
-        System.out.println("gdb3");
-        System.out.println("gdb4");
+        System.out.println("周末窝在家里看电影");
     }
 }
