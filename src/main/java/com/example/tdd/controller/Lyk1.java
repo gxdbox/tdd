@@ -8,5 +8,6 @@ package com.example.tdd.controller;
 public class Lyk1 {
     public static void main(String[] args) {
         System.out.println("晚上吃宫保鸡丁");
+        System.out.println("晚上吃鱼香肉丝");
     }
 }

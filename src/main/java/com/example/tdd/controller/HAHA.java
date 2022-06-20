@@ -5,9 +5,8 @@ package com.example.tdd.controller;
  * @date 2022/6/20
  * @description
  */
-public class Gdb1 {
+public class HAHA {
     public static void main(String[] args) {
-        System.out.println("周末去唱K");
-        System.out.println("周末窝在家里看电影");
+        System.out.println("我是新增");
     }
 }
