@@ -10,6 +10,10 @@ public class LeecodeTest {
     private  Map<Integer, Integer> sumCount = new HashMap<>();
     private  int maxFremax = Integer.MIN_VALUE;
 
+    public static void main(String[] args) {
+        System.out.println("lyk comon");
+    }
+
     public int[] findFrequentTreeSum(TreeNode root) {
         postOrder(root);
 
