@@ -8,5 +8,6 @@ package com.example.tdd.controller;
 public class MAMAMA {
     public static void main(String[] args) {
         System.out.println("我是新增类");
+        System.out.println("我是删除类");
     }
 }
